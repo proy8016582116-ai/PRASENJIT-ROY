@@ -1,0 +1,26 @@
+{
+  "name": "WB TET মাস্টার অ্যাপ — প্রসেনজিৎ রায়",
+  "short_name": "WB TET মাস্টার",
+  "description": "WB Primary ও Upper Primary TET প্রস্তুতির সম্পূর্ণ অফলাইন-রেডি MCQ, মক টেস্ট, নোটস ও AI টিউটর অ্যাপ।",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#4338ca",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
